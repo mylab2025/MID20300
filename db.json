@@ -1,0 +1,29 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "3.3V-LDO-300mA-SOT23-5",
+        "PN": "TPL803233-S5TR-S",
+        "MF": "3PEAK"
+      },
+      "MID": "MID20300",
+      "MD": " TPL803233-S5ut High-PSRR Ultra-Low Noise LDO Regulator \r\n• Low-Noise Power Supply\r\n• High-Definition Imaging System\r\n• Infrared Image Equipment\r\n• Medical Equipment",
+      "MT": "Electronic Material",
+      "MQNT": 7,
+      "MCost": 218.75,
+      "MQATG": "#CLASS_0",
+      "ML": "",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20300%2Fmain%2FDatasheet_TPL8032.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20300/main/snapshot_20250825_130821_TPL8032_LDO.png",
+        "https://raw.githubusercontent.com/mylab2025/MID20300/main/snapshot_20250825_131002_TPL8032_LDO.png"
+      ]
+    }
+  ]
+}
